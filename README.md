@@ -2,6 +2,9 @@
 
 다중 AI 언어모델을 활용한 텍스트 처리 도구
 
+**바이브 코딩** 이 코드는 Github Copilot을 이용해서 작성 됨
+
+
 ## 주요 기능
 
 - **다중 AI 모델 지원**: Claude, Perplexity, Gemini, OpenAI
@@ -73,10 +76,11 @@ python cowrity.py
 
 ## 지원 모델
 
-- **Claude**: Sonnet 4, Opus 4, Haiku 3.5
+- **Claude**: Sonnet 4, Opus 4.1, Haiku 3.5
 - **Perplexity**: Sonar, Sonar Pro
 - **Gemini**: 2.5 Flash, 2.5 Pro
-- **OpenAI**: GPT-4.1, o3 (추론모델)
+- **OpenAI**: GPT-5, GPT-4.1, o3 (추론모델)
+- **OpenAI**: GPT-OSS
 
 ## 라이선스
 
